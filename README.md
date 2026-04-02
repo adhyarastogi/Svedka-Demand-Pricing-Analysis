@@ -10,21 +10,14 @@ Source: SVEDKA.csv - a panel dataset covering 31 vodka brands observed across 13
 
 Key Variables:
 
-TotalSales - Annual unit sales per brand
-
-PricePerUnit - Price in USD
-
-DollarSales - Total revenue
-
-Mag, News, Outdoor, Broad, Print - Advertising spend by channel
-
-Tier - Brand positioning (1 = Premium, 3 = Mass-market)
-
-Domestic - Whether the brand is domestic (1) or imported (0)
-
-Marketshare - Brand's share of total category volume
-
-Firstintro - Indicator for newly introduced brands
+1. TotalSales - Annual unit sales per brand
+2. PricePerUnit - Price in USD
+3. DollarSales - Total revenue
+4. Mag, News, Outdoor, Broad, Print - Advertising spend by channel
+5. Tier - Brand positioning (1 = Premium, 3 = Mass-market)
+6. Domestic - Whether the brand is domestic (1) or imported (0)
+7. Marketshare - Brand's share of total category volume
+8. Firstintro - Indicator for newly introduced brands
 
 
 Key Findings

@@ -66,10 +66,10 @@ Analysis Workflow
 7. Strategic Interpretation     → Business recommendations for pricing & ad spend
 
 SAS Code:
-The full annotated SAS code is included in the appendix of the analysis report (Analysis_Report.pdf).
+The full annotated SAS code is included in the appendix of the analysis report (SVEDKA_Demand_Pricing_Analysis.pdf).
 
 SAS Output:
-All the screenshots of SAS output are included in the appendix of the analysis report ().
+All the screenshots of SAS output are included in the appendix of the analysis report (SVEDKA_Demand_Pricing_Analysis.pdf).
 
 Procedures used:
 
